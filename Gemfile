@@ -47,3 +47,5 @@ group :test do
 end
 
 gem 'tzinfo-data'
+
+gem 'mysql2'
